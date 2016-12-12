@@ -69,6 +69,9 @@ Datasets collection for research and training in autonomous vehicles topics.
 
 [Self Racing Cars](http://data.selfracingcars.com/)
 
+[Linkopings Universitet AMUSE Dataset](http://www.cvl.isy.liu.se/research/datasets/amuse/) (NON-FREE)
+
+[CSSAD Dataset](http://aplicaciones.cimat.mx/Personal/jbhayet/ccsad-dataset) (3rd World Country Streets)
 
 ### Blogs
 ---
@@ -99,4 +102,6 @@ Datasets collection for research and training in autonomous vehicles topics.
 
 United States
 
+[California Regulatory Notice](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/testing)
 [Michigan Just Passed the Most Permissive Self-Driving Car Laws in the Country](http://fortune.com/2016/12/09/michigan-self-driving-cars/)
+[Car accidents involving a SDC in California](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/autonomousveh_ol316)
