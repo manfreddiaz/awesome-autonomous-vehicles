@@ -87,24 +87,23 @@ sensors for odometry collected using a Segway robot.
 * [Daimler Urban Segmetation Dataset](http://www.6d-vision.com/scene-labeling) - consists of video sequences recorded in urban traffic. The dataset consists of 5000 rectified stereo image pairs with a resolution of 1024x440. 500 frames (every 10th frame of the sequence) come with pixel-level semantic class annotations into 5 classes: ground, building, vehicle, pedestrian, sky. Dense disparity maps are provided as a reference, however these are not manually annotated but computed using semi-global matching (sgm).
 * [Self Racing Cars - XSens/Fairchild Dataset](http://data.selfracingcars.com/) - The files include measurements from the Fairchild FIS1100 6 Degree of Freedom (DoF) IMU, the Fairchild FMT-1030 AHRS, the Xsens MTi-3 AHRS, and the Xsens MTi-G-710 GNSS/INS. The files from the event can all be read in the MT Manager software, available as part of the MT Software Suite, available here.
 
-
-### Blogs
----
-[Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
+## Open Source Software
+1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
+* [Comma.ai Openpilot](https://github.com/commaai/openpilot) - an open source driving agent.
+* [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/) - Software Infrastructure for Stanford's Autonomous Vehicles.
+* [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) - development environment ready for Udacity Self Driving Car (SDC) Challenges.
+* [The OSCC Project](http://oscc.io/) - A by-wire control kit for autonomous vehicle development.
 
 ## Hardware
 
-## OSS
-
-[Autoware](https://github.com/CPFL/Autoware)
-
-[GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1)
-
-[The OSCC Project](http://oscc.io/)
 
 ## Companies
 
-* [33 Corporations Working On Autonomous Vehicles](https://www.cbinsights.com/blog/autonomous-driverless-vehicles-corporations-list/)
+1. [33 Corporations Working On Autonomous Vehicles](https://www.cbinsights.com/blog/autonomous-driverless-vehicles-corporations-list/)
+
+## Blogs
+1. [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
+
 
 ## Laws and Legislation
 
