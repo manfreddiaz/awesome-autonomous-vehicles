@@ -54,6 +54,53 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 ## Research
 
 ### Papers
+By Topic Areas and Year of Publication / Submission
+
+#### General
+1. **[2016]** _Combining Deep Reinforcement Learning and Safety Based Control for Autonomous Driving_. [[arxiv](https://arxiv.org/abs/1612.00147)]
+* **[2016]** _End to End Learning for Self-Driving Cars_. [[arxiv](https://arxiv.org/abs/1604.07316)]
+* **[2015]** _Self-Driving Vehicles: The Challenges and Opportunities Ahead_. [[acm](http://dl.acm.org/citation.cfm?id=2823464)]
+* **[2010]** _Toward robotic cars_. [[acm](http://dl.acm.org/citation.cfm?id=1721679)]
+* **[2007]** _Self-Driving Cars - An AI-Robotics Challenge_. [[semantic-scholar](https://www.semanticscholar.org/paper/Self-Driving-Cars-An-AI-Robotics-Challenge-Thrun/31d17c77d2ea18f71d570741665f0fd3030caa94)]
+* **[2006]** _A Personal Account of the Development of Stanley, the Robot That Won the DARPA Grand Challenge_. [[semantic-scholar](https://www.semanticscholar.org/paper/A-Personal-Account-of-the-Development-of-Stanley-Thrun/74a4de58be068d2dc38bb31cf54c3c49bdc0d4e4)]
+* **[2006]** _Stanley: The robot that won the DARPA Grand Challenge_. [[semantic-scholar](https://www.semanticscholar.org/paper/Stanley-The-robot-that-won-the-DARPA-Grand-Thrun-Montemerlo/298500897243b17fa2ebe7bde0a1b8ebc00ea07f)]
+
+#### Localization & Mapping
+1. **[2016]** _MultiCol-SLAM - A Modular Real-Time Multi-Camera SLAM System._ [[arxiv](https://arxiv.org/abs/1610.07336)]
+* **[2016]** _Image Based Camera Localization: an Overview_. [[arxiv](https://arxiv.org/abs/1610.03660)]
+
+#### Perception
+1. **[2016]** _VisualBackProp: visualizing CNNs for autonomous driving_. [[arxiv](https://arxiv.org/abs/1611.05418)]
+* **[2016]** _Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?_. [[arxiv](https://arxiv.org/abs/1610.01983)]
+* **[2016]** _Lost and Found: Detecting Small Road Hazards for Self-Driving Vehicles_. [[arxiv](https://arxiv.org/abs/1609.04653)]
+* **[2016]** _Image segmentation of cross-country scenes captured in IR spectrum_. [[arxiv](https://arxiv.org/abs/1604.02469)]
+* **[2015]** _Pixel-wise Segmentation of Street with Neural Networks_. [[arxiv](https://arxiv.org/abs/1511.00513)]
+* **[2015]** _Deep convolutional neural networks for pedestrian detection_. [[arxiv](https://arxiv.org/abs/1510.03608)]
+* **[2015]** _Fast Algorithms for Convolutional Neural Networks_. [[arxiv](https://arxiv.org/abs/1509.09308)]
+
+#### Navigation & Planning
+1. **[2016]** _A Self-Driving Robot Using Deep Convolutional Neural Networks on Neuromorphic Hardware_. [[arxiv](https://arxiv.org/abs/1611.01235)]
+* **[2016]** _A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles_. [[arxiv](https://arxiv.org/abs/1604.07446)]
+* **[2016]** _Routing Autonomous Vehicles in Congested Transportation Networks: Structural Properties and Coordination Algorithms_. [[arxiv](https://arxiv.org/abs/1603.00939)]
+* **[2013]** _Motion Estimation for Self-Driving Cars with a Generalized Camera_. [[semantic-scholar](https://www.semanticscholar.org/paper/Motion-Estimation-for-Self-Driving-Cars-with-a-Lee-Fraundorfer/f7f775a4f484706ffbc524accb351cb564469f6a)]
+* **[2015]** _Model Predictive Control of Autonomous Mobility-on-Demand Systems_. [[arxiv](https://arxiv.org/abs/1509.03985)]
+* **[2007]** _Online Speed Adaptation Using Supervised Learning for High-Speed, Off-Road Autonomous Driving_.[[semantic-scholar](https://www.semanticscholar.org/paper/Online-Speed-Adaptation-Using-Supervised-Learning-Stavens-Hoffmann/9db82954df3f4ae829459dcb8719b8a8ed9f4bee)]
+* **[2006]** _Probabilistic Terrain Analysis For High-Speed Desert Driving_.[[semantic-scholar](https://www.semanticscholar.org/paper/Probabilistic-Terrain-Analysis-For-High-Speed-Thrun-Montemerlo/b23a7882b35d0252e5f3011bff15c6dca46ef84e)]
+
+
+#### Simulation
+1. **[2016]** _Learning a Driving Simulator_. [[arxiv](https://arxiv.org/abs/1608.01230)]
+* **[2014]** _From a Competition for Self-Driving Miniature Cars to a Standardized Experimental Platform: Concept, Models, Architecture, and Evaluation_. [[arxiv](https://arxiv.org/abs/1406.7768)]
+
+#### Software Engineering
+1. **[2016]** _Evaluation of Sandboxed Software Deployment for Real-time Software on the Example of a Self-Driving Heavy Vehicle_. [[arxiv](https://arxiv.org/abs/1608.06759)]
+* **[]** _Engineering the Hardware/Software Interface for Robotic Platforms - A Comparison of Applied Model Checking with Prolog and Alloy_. [[arxiv](https://arxiv.org/abs/1401.3985)]
+
+#### Human-Machine Interaction
+1. **[2015]** _User interface considerations to prevent self-driving carsickness_. [[acm](http://dl.acm.org/citation.cfm?id=2809754)]
+
+#### Infrastructure
+1. **[2014]** _Control of Robotic Mobility-On-Demand Systems: a Queueing-Theoretical Perspective_. [[arxiv](https://arxiv.org/abs/1404.4391)]
 
 ### Labs
 1. 	[Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
@@ -112,3 +159,4 @@ United States
 1. [California Regulatory Notice](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/testing)
 * [Michigan Just Passed the Most Permissive Self-Driving Car Laws in the Country](http://fortune.com/2016/12/09/michigan-self-driving-cars/)
 * [Car accidents involving a SDC in California](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/autonomousveh_ol316)
+* [Nvidia starts testing its self-driving cars on public roads](http://www.theinquirer.net/inquirer/news/2479432/nvidia-starts-testing-its-self-driving-cars-on-public-roads)
