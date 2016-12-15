@@ -103,7 +103,7 @@ By Topic Areas and Year of Publication / Submission
 #### Navigation & Planning
 1. **[2016]** _A Self-Driving Robot Using Deep Convolutional Neural Networks on Neuromorphic Hardware_. [[ref](https://arxiv.org/abs/1611.01235)]
 * **[2016]** _A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles_. [[ref](https://arxiv.org/abs/1604.07446)]
-* **[2016]** _A Convex Optimization Approach to Smooth Trajectories for Motion Planning with Car-Like Robots. [[ref](https://www.semanticscholar.org/paper/A-Convex-Optimization-Approach-to-Smooth-Zhu-Schmerling/785b22bbdb04f2ddd4233a4c40d798ed3194374f)]
+* **[2016]** _A Convex Optimization Approach to Smooth Trajectories for Motion Planning with Car-Like Robots_. [[ref](https://www.semanticscholar.org/paper/A-Convex-Optimization-Approach-to-Smooth-Zhu-Schmerling/785b22bbdb04f2ddd4233a4c40d798ed3194374f)]
 * **[2016]** _Routing Autonomous Vehicles in Congested Transportation Networks: Structural Properties and Coordination Algorithms_. [[ref](https://arxiv.org/abs/1603.00939)]
 * **[2016]** _Machine Learning for Visual Navigation of Unmanned Ground Vehicles_. [[ref](https://www.semanticscholar.org/paper/Machine-Learning-for-Visual-Navigation-of-Unmanned-Lenskiy-Lee/9b21934ec4f08ed3cd54a7e3a3c7c25b311e1ced)]
 * **[2016]** _Real-time self-driving car navigation and obstacle avoidance using mobile 3D laser scanner and GNSS_. [[ref](https://www.semanticscholar.org/paper/Real-time-self-driving-car-navigation-and-obstacle-Li-Bao/4e8b5a99ae628eea43d7e7410cdfa7f8a2e847d5)]
