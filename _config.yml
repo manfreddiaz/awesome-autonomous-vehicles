@@ -1,0 +1,8 @@
+title: Awesome Self-Driving Cars
+description: Curated List of Self-Driving Cars Resources
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
