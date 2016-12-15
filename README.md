@@ -7,10 +7,6 @@ Please feel free to send me pull requests or email me at (takeitallsource@gmail.
 
 ## Table of Contents
 * [Foundations](#foundations)
-    * Artificial Intelligence
-    * Computer Vision
-    * Robotics
-    * Human-Machine Interaction
 * [Courses](#courses)
 * [Papers](#papers)
 * [Research Labs](#research-labs)
@@ -231,7 +227,20 @@ sensors for odometry collected using a Segway robot.
 1. [33 Corporations Working On Autonomous Vehicles](https://www.cbinsights.com/blog/autonomous-driverless-vehicles-corporations-list/)
 
 ## Media
+
+### Blogs
 1. [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
+* [[Medium] Self-Driving Cars](https://medium.com/self-driving-cars)
+### Twitter
+
+1. [comma.ai](https://twitter.com/comma_ai)
+* [[Udacity] David Silver](https://twitter.com/dsilver829)
+* [[Udacity] Dhruv Parthasarathy](https://twitter.com/dhruvp)
+* [[Udacity] Eric Gonzalez](https://twitter.com/ericrgon)
+* [[Udacity] Oliver Cameron](https://twitter.com/olivercameron)
+* [[Udacity] MacCallister Higgins](https://twitter.com/macjshiggins)
+* [[Udacity] Sebastian Thrun](https://twitter.com/SebastianThrun)
+* [[Google] Chris Urmson](https://twitter.com/chris_urmson)
 
 
 ## Laws
