@@ -6,21 +6,21 @@ A curated list of awesome autonomous vehicles resources, inspired by [awesome-ph
 Please feel free to send me pull requests or email me at (takeitallsource@gmail.com) to add links.
 
 ## Table of Contents
-* Foundations
+* [Foundations](#foundations)
     * Artificial Intelligence
     * Computer Vision
     * Robotics
     * Human-Machine Interaction
-* Courses
-* Papers
-* Research Labs
-* Datasets
-* Open Source Software
-* Companies
-* Legal Frame
-* Blogs
-* Social Media
-* Miscellaneous
+* [Courses](#courses)
+* [Papers](#papers)
+* [Research Labs](#research-labs)
+* [Datasets](#datasets)
+* [Open Source Software](#open-source-software)
+* [Hardware](#hardware)
+* [Companies](#companies)
+* [Media](#media)
+* [Laws](#laws)
+
 
 ## Foundations
 
@@ -62,6 +62,7 @@ By Topic Areas and Year of Publication / Submission
 * **[2014]** _Towards Autonomous Vehicles_. [[ref](https://www.semanticscholar.org/paper/Towards-Autonomous-Vehicles-Schwarz-Thomas/88712e686e1bcad21f0836e9d31400dab2b7fa8f)]
 * **[2013]** _Towards a viable autonomous driving research platform_. [[ref](https://www.semanticscholar.org/paper/Towards-a-viable-autonomous-driving-research-Wei-Snider/da5cee7a6eb817bbbf4721c64c756bd8b7122359)]
 * **[2013]** _An ontology-based model to determine the automation level of an automated vehicle for co-driving_. [[ref](https://www.semanticscholar.org/paper/An-ontology-based-model-to-determine-the-Pollard-Morignot/25239ec7fb6159166dfe15adf229fc2415f071df)]
+* **[2013]** _Autonomous Vehicle Navigation by Building 3d Map and by Detecting Human Trajectory Using Lidar_. [[ref](https://www.semanticscholar.org/paper/Autonomous-Vehicle-Navigation-by-Building-3d-Map-Kagami-Thompson/81b14341e3e063d819d032b6ce0bc0be0917c867)]
 * **[2010]** _Toward robotic cars_. [[ref](http://dl.acm.org/citation.cfm?id=1721679)]
 * **[2008]** _Autonomous Driving in Urban Environments: Boss and the Urban Challenge_. [[ref](https://www.semanticscholar.org/paper/Autonomous-Driving-in-Urban-Environments-Boss-and-Urmson-Anhalt/1c0fb6b1bbfde0f9bab6268f5609cce2bd3bc5bd)]
 * **[2008]** _Caroline: An autonomously driving vehicle for urban environments_. [[ref](https://www.semanticscholar.org/paper/Caroline-An-autonomously-driving-vehicle-for-urban-Rauskolb-Berger/08f4e164291942fc78bd6945215b2c672b17edd5)]
@@ -103,6 +104,8 @@ By Topic Areas and Year of Publication / Submission
 * **[2014]** _Extending the Stixel World with online self-supervised color modeling for road-versus-obstacle segmentation_. [[ref](https://www.semanticscholar.org/paper/Extending-the-Stixel-World-with-online-self-Sanberg-Dubbelman/6dd60e0484931b284f49ab8204b011d153ff4967)]
 * **[2014]** _Plan, Activity, and Intent Recognition_. [[ref](https://www.semanticscholar.org/paper/Plan-Activity-and-Intent-Recognition-Baker-Tenenbaum/4cbb1ea46c09d11b0b986a7baaac7215006504f8)]
 * **[2013]** _Focused Trajectory Planning for autonomous on-road driving_. [[ref](https://www.semanticscholar.org/paper/Focused-Trajectory-Planning-for-autonomous-on-road-Gu-Snider/03bf26d72d8cc0cf401c31e31c242e1894bd0890)]
+* **[2013]** _Avoiding moving obstacles during visual navigation_. [[ref](https://www.semanticscholar.org/paper/Avoiding-moving-obstacles-during-visual-navigation-Cherubini-Grechanichenko/7c0e580c0f914086e9c918aef1df561253a71044)]
+* **[2012]** _Road Tracking Method Suitable for Both Unstructured and Structured Roads_. [[ref](https://www.semanticscholar.org/paper/International-Journal-of-Advanced-Robotic-Systems-Proch%C3%A1zka/4819fda4bc778454701f2a4b30db46ec56aa45bc)]
 * **[2009]** _Autonomous Information Fusion for Robust Obstacle Localization on a Humanoid Robot_. [[ref](https://www.semanticscholar.org/paper/Autonomous-Information-Fusion-for-Robust-Obstacle-Sridharan-Li/2365b361fb0e5cb801b22900a4c4a421c35ea639)]
 * **[2008]** _Vehicle detection and tracking for the Urban Challenge_. [[ref](https://www.semanticscholar.org/paper/Vehicle-detection-and-tracking-for-the-Urban-Darms-Baker/757fbaa9881b9075409a9962819fda64d51307e1)]
 * **[2000]** _Real-time multiple vehicle detection and tracking from a moving vehicle_. [[ref](https://www.semanticscholar.org/paper/Real-time-multiple-vehicle-detection-and-tracking-Betke-Haritaoglu/864a7068c346ecbc4ef6c4da66e4c8bcc83fe560)]
@@ -128,6 +131,8 @@ By Topic Areas and Year of Publication / Submission
 * **[2014]** _Speed Daemon: Experience-Based Mobile Robot Speed Scheduling_. [[ref](https://www.semanticscholar.org/paper/Speed-Daemon-Experience-Based-Mobile-Robot-Speed-Ostafew-Schoellig/9d3c816fb21bfa00d5a86cbb972a4ab7af59dbfb)]
 * **[2014]** _Toward human-like motion planning in urban environments_. [[ref](https://www.semanticscholar.org/paper/Toward-human-like-motion-planning-in-urban-Gu-Dolan/30005949ebde80ebe3cd0b96b84a8dcb8b7f919a)]
 * **[2013]** _Motion Estimation for Self-Driving Cars with a Generalized Camera_. [[ref](https://www.semanticscholar.org/paper/Motion-Estimation-for-Self-Driving-Cars-with-a-Lee-Fraundorfer/f7f775a4f484706ffbc524accb351cb564469f6a)]
+* **[2013]** _Development of a Navigation Control System for an Autonomous Formula Sae-electric Race Car_. [[ref](https://www.semanticscholar.org/paper/Development-of-a-Navigation-Control-System-for-an-Drage/f55796a5f33836017de2cd8023b57efda9882c26)]
+* **[2013]** _Low speed automation: Technical feasibility of the driving sharing in urban areas_. [[ref](https://www.semanticscholar.org/paper/Low-speed-automation-Technical-feasibility-of-the-Resende-Pollard/a34161c17343e8f41e200fe5288e2a4aaeafa25a)]
 * **[2010]** _Vision-Based Autonomous Navigation System Using ANN and FSM Control_ [[ref](https://www.semanticscholar.org/paper/Vision-Based-Autonomous-Navigation-System-Using-Sales-Shinzato/e1fcccdbc373c9bbd5bd970c34368e7e1aa56424)]
 * **[2008]** _Motion Planning in Urban Environments_. [[ref](https://www.semanticscholar.org/paper/Motion-Planning-in-Urban-Environments-Ferguson-Howard/8fa74131756a50c1562ebf1f03552779803aed67)]
 * **[2007]** _Online Speed Adaptation Using Supervised Learning for High-Speed, Off-Road Autonomous Driving_.[[ref](https://www.semanticscholar.org/paper/Online-Speed-Adaptation-Using-Supervised-Learning-Stavens-Hoffmann/9db82954df3f4ae829459dcb8719b8a8ed9f4bee)]
@@ -178,6 +183,7 @@ By Topic Areas and Year of Publication / Submission
 1. **[2016]** _Autonomous Vehicle Technology: A Guide for Policymakers_. [[ref](https://www.semanticscholar.org/paper/Autonomous-Vehicle-Technology-A-Guide-for-Anderson-Kalra/a0231f6ab2a9feaef92d5481149cdb2142aaeb02)]
 * **[2014]** _**WHITE PAPER** Self-driving Vehicles: Current Status of Autonomous Vehicle Development and Minnesota Policy Implications Preliminary White Paper_. [[ref](https://www.semanticscholar.org/paper/Self-driving-Vehicles-Current-Status-of-Autonomous-Lari-Douma/581075c89f6a3945fa43d61aac1329d1e43f9fa3)]
 * **[2014]** _Are We Ready for Driver-less Vehicles? Security vs. Privacy- A Social Perspective_. [[ref](https://www.semanticscholar.org/paper/Are-We-Ready-for-Driver-less-Vehicles-Security-vs-Acharya/ec5b5c434f9d0bfc3954c212226d436e32bcf7d5)]
+* **[2013]** _Autonomous vehicle social behavior for highway entrance ramp management_. [[ref](https://www.semanticscholar.org/paper/Autonomous-vehicle-social-behavior-for-highway-Wei-Dolan/86482726040d4a924ee339043e4606625a8f64fd)]
 
 ## Research Labs
 1. 	[Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
@@ -224,11 +230,11 @@ sensors for odometry collected using a Segway robot.
 
 1. [33 Corporations Working On Autonomous Vehicles](https://www.cbinsights.com/blog/autonomous-driverless-vehicles-corporations-list/)
 
-## Blogs
+## Media
 1. [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
 
 
-## Laws and Legislation
+## Laws
 
 United States
 
