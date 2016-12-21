@@ -3,7 +3,7 @@ A curated list of awesome autonomous vehicles resources, inspired by [awesome-ph
 
 ## Contributing
 
-Please feel free to send me pull requests or email me at (takeitallsource@gmail.com) to add links.
+Please feel free to send me pull requests to add links.
 
 ## Table of Contents
 * [Foundations](#foundations)
