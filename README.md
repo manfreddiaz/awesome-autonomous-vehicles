@@ -287,6 +287,8 @@ sensors for odometry collected using a Segway robot.
 * [CSSAD Dataset](http://aplicaciones.cimat.mx/Personal/jbhayet/ccsad-dataset) - Several real-world stereo datasets exist for the development and testing of algorithms in the fields of perception and navigation of autonomous vehicles. However, none of them was recorded in developing countries and therefore they lack the particular characteristics that can be found in their streets and roads, like abundant potholes, speed bumpers and peculiar flows of pedestrians. This stereo dataset was recorded from a moving vehicle and contains high resolution stereo images which are complemented with orientation and acceleration data obtained from an IMU, GPS data, and data from the car computer.
 * [Daimler Urban Segmetation Dataset](http://www.6d-vision.com/scene-labeling) - consists of video sequences recorded in urban traffic. The dataset consists of 5000 rectified stereo image pairs with a resolution of 1024x440. 500 frames (every 10th frame of the sequence) come with pixel-level semantic class annotations into 5 classes: ground, building, vehicle, pedestrian, sky. Dense disparity maps are provided as a reference, however these are not manually annotated but computed using semi-global matching (sgm).
 * [Self Racing Cars - XSens/Fairchild Dataset](http://data.selfracingcars.com/) - The files include measurements from the Fairchild FIS1100 6 Degree of Freedom (DoF) IMU, the Fairchild FMT-1030 AHRS, the Xsens MTi-3 AHRS, and the Xsens MTi-G-710 GNSS/INS. The files from the event can all be read in the MT Manager software, available as part of the MT Software Suite, available here.
+* [MIT AGE Lab](http://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/) - a small sample of the 1,000+ hours of multi-sensor driving datasets collected at AgeLab.
+* [[Yet Another Computer Vision Index To Datasets (YACVID)](http://yacvid.hayko.at/)] -  a list of frequently used computer vision datasets.
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
@@ -304,6 +306,15 @@ sensors for odometry collected using a Segway robot.
 
 ## Media
 Different media sources where we can find self-driving car related topics, ideas, and much more.
+
+#### Youtube
+1. The Three Pillars of Autonomous Driving. [[watch](https://www.youtube.com/watch?v=GZa9SlMHhQc)]
+* What goes into sensing for autonomous driving? [[watch](https://www.youtube.com/watch?v=GCMXXXmxG-I)]
+* Amnon Shashua CVPR 2016 keynote: Autonomous Driving, Computer Vision and Machine Learning. [[watch](https://www.youtube.com/watch?v=n8T7A3wqH3Q)]
+* Chris Urmson: How a driverless car sees the road. [[watch](https://www.youtube.com/watch?v=tiwVMrTLUWg)]
+* Deep Reinforcement Learning for Driving Policy. [[watch](https://www.youtube.com/watch?amp;t=980s&v=QK0LxA8FWq4)]
+* NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
+* NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
 #### Blogs
 1. [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
