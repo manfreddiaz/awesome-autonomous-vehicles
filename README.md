@@ -34,9 +34,6 @@ from generic to specific areas focus on state-of-the-art for anyone starting in 
 1. [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources, maintained by Jia-Bin Huang
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision, maintained by Jiwon Kim, Heesoo Myeong, Myungsub Choi, Jung Kwon Lee, Taeksoo Kim
 
-### Human-Machine Interaction
-1.
-
 ## Courses
 1. [[Udacity] Self-Driving Car Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - teaches the skills and techniques used by self-driving car teams. Program syllabus can be found [here](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.bfgw9uxd9).
 * [[University of Toronto] CSC2541
