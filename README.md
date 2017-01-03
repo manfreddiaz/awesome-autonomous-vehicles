@@ -288,6 +288,7 @@ sensors for odometry collected using a Segway robot.
 * [[Yet Another Computer Vision Index To Datasets (YACVID)](http://yacvid.hayko.at/)] -  a list of frequently used computer vision datasets.
 * [[KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/)] - a large dataset with 10000+ traffic sign annotations, thousands of physically distinct traffic signs. 4 video sequences recorded with 8 high resolution cameras mounted on a van, summing more than 3 hours, with traffic sign annotations, camera calibrations and poses. About 16000 background images. The material is captured in Belgium, in urban environments from Flanders region, by GeoAutomation. 
 * [[LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html)] - traffic sign, vehicles detection, traffic lights, trajectory patterns.
+
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
 * [Comma.ai Openpilot](https://github.com/commaai/openpilot) - an open source driving agent.
