@@ -300,7 +300,7 @@ sensors for odometry collected using a Segway robot.
 ## Hardware
 
 
-## Toy Implementations
+## Toys
 1. [TensorKart](https://github.com/kevinhughes27/TensorKart) - self-driving MarioKart with TensorFlow.
 
 ## Companies
