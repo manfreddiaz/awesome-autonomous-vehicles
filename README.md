@@ -13,6 +13,7 @@ Please feel free to send me pull requests to add links.
 * [Datasets](#datasets)
 * [Open Source Software](#open-source-software)
 * [Hardware](#hardware)
+* [Toys](#toys)
 * [Companies](#companies)
 * [Media](#media)
 * [Laws](#laws)
@@ -298,6 +299,9 @@ sensors for odometry collected using a Segway robot.
 
 ## Hardware
 
+
+## Toy Implementations
+1. [TensorKart](https://github.com/kevinhughes27/TensorKart) - self-driving MarioKart with TensorFlow.
 
 ## Companies
 
