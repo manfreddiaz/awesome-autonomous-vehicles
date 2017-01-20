@@ -269,6 +269,7 @@ understanding how people will interact with increasingly automated vehicles, soc
 * [Honda Research Institute - USA](http://usa.honda-ri.com/Pages/Research%20Area/Detail.aspx?listId=2) - engaged in development and integration of multiple sensory modules and the coordination of these components while fulfilling tasks such as stable motion planning,  decision making, obstacle avoidance, and control (test).​
 * [Toyota-CSAIL Research Center at MIT](http://toyota.csail.mit.edu/) - Aimed at furthering the development of autonomous vehicle technologies, with the goal of reducing traffic casualties and potentially even developing a vehicle incapable of getting into an accident.
 * [Princeton Vision & Robotics](http://vision.princeton.edu/research.html) - Autonomous Driving and StreetView.
+* [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262) - working in the areas of computer vision, autonomous navigation, virtual reality, intelligent manipulation, space robotics, and related fields.
 
 ## Datasets
 1. [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - Udacity driving datasets released for [Udacity Challenges](https://www.udacity.com/self-driving-car). Contains ROSBAG training data. (~80 GB).
