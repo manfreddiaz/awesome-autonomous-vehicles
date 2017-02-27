@@ -260,7 +260,7 @@ By Topic Areas and Year of Publication / Submission
 1. 	[Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
 understanding how people will interact with increasingly automated vehicles, societal impacts of vehicle automation from policy to ethics to law, technology advances in sensing, decision-making and control.
 * [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/) - The theme of the center is **Human-Centered Artificial Intelligence for Future Intelligent Vehicles and Beyond.**
-* [Berkeley DeepDrive](http://www.path.berkeley.edu/berkeley-deepdrive) - Investigates state-of-the-art technologies in computer vision and machine learning for automotive application.
+* [Berkeley DeepDrive](http://bdd.berkeley.edu/) - Investigates state-of-the-art technologies in computer vision and machine learning for automotive application.
 * [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/) - undergraduate student-led research group at Princeton University dedicated to advancing and promoting the field of robotics through competitive challenges, self-guided research and community outreach.
 * [University of Maryland Autonomous Vehicle Laboratory](http://www.avl.umd.edu/) - conducts research and development in the area of biologically inspired design and robotics.
 * [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/) - Research areas includes Multirotor UAV, Autonomous driving and Multi-Camera Parallel Tracking and Mapping.
@@ -304,6 +304,7 @@ sensors for odometry collected using a Segway robot.
 
 ## Toys
 1. [TensorKart](https://github.com/kevinhughes27/TensorKart) - self-driving MarioKart with TensorFlow.
+2. [NeuroJS](https://github.com/janhuenermann/neurojs) - A javascript deep learning and reinforcement learning library. A sample self-driving car implementation.
 
 ## Companies
 
