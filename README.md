@@ -85,6 +85,8 @@ By Topic Areas and Year of Publication / Submission
 1. **[2016]** _MultiCol-SLAM - A Modular Real-Time Multi-Camera SLAM System._ [[ref](https://arxiv.org/abs/1610.07336)]
 * **[2016]** _Image Based Camera Localization: an Overview_. [[ref](https://arxiv.org/abs/1610.03660)]
 * **[2016]** _Ubiquitous real-time geo-spatial localization_ [[ref](http://dl.acm.org/citation.cfm?id=3005426)]
+* **[2016]** _Robust multimodal sequence-based loop closure detection via structured sparsity_. [[ref](http://www.roboticsproceedings.org/rss12/p43.pdf)]
+* **[2016]** _SRAL: Shared Representative Appearance Learning for Long-Term Visual Place Recognition_. [[ref](http://ieeexplore.ieee.org/document/7839213/)], [[code](https://github.com/hanfeiid/SRAL)]
 * **[2015]** _Precise Localization of an Autonomous Car Based on Probabilistic Noise Models of Road Surface Marker Features Using Multiple Cameras_. [[ref](https://www.semanticscholar.org/paper/Precise-Localization-of-an-Autonomous-Car-Based-on-Jo-Jo/27251099b78185f9ddf59c9ed0c5868af4ef1e80)]
 * **[2013]** _Planar Segments Based Three-dimensional Robotic Mapping in Outdoor Environments_. [[ref](https://www.semanticscholar.org/paper/Planar-Segments-Based-Three-dimensional-Robotic-Xiao/ebddeb22f3b5c38422987c3fe51aaf847ad444e7)]
 * **[2013]** _Vehicle Localization along a Previously Driven Route Using Image Database_. [[ref](https://www.semanticscholar.org/paper/Vehicle-Localization-along-a-Previously-Driven-Kume-Supp%C3%A9/e5a7ac37d542349ae19281f1e2a571f7030b789c)]
@@ -102,6 +104,8 @@ By Topic Areas and Year of Publication / Submission
 * **[2016]** _Deep Multispectral Semantic Scene Understanding of Forested Environments Using Multimodal Fusion_. [[ref](https://www.semanticscholar.org/paper/Deep-Multispectral-Semantic-Scene-Understanding-of-Valada-Oliveira/8be99dd94bff76c75594a15e114268841a2656a7)]
 * **[2016]** _Joint Attention in Autonomous Driving (JAAD)_. [[ref](https://www.semanticscholar.org/paper/Joint-Attention-in-Autonomous-Driving-JAAD--Kotseruba-Rasouli/1e6a26deea0a38310368d9c2a6dadc317b50bdf8), [data](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/)]
 * **[2016]** _Perception for driverless vehicles: design and implementation_. [[ref](https://www.semanticscholar.org/paper/Perception-for-driverless-vehicles-design-and-Benenson-Suarez/bf1c728e3e893670244591f720b453245c3363f6)]
+* **[2016]** _Robust multimodal sequence-based loop closure detection via structured sparsity_. [[ref](http://www.roboticsproceedings.org/rss12/p43.pdf)]
+* **[2016]** _SRAL: Shared Representative Appearance Learning for Long-Term Visual Place Recognition_. [[ref](http://ieeexplore.ieee.org/document/7839213/)], [[code](https://github.com/hanfeiid/SRAL)]
 * **[2015]** _Pixel-wise Segmentation of Street with Neural Networks_. [[ref](https://arxiv.org/abs/1511.00513)]
 * **[2015]** _Deep convolutional neural networks for pedestrian detection_. [[ref](https://arxiv.org/abs/1510.03608)]
 * **[2015]** _Fast Algorithms for Convolutional Neural Networks_. [[ref](https://arxiv.org/abs/1509.09308)]
@@ -291,6 +295,7 @@ sensors for odometry collected using a Segway robot.
 * [Yet Another Computer Vision Index To Datasets (YACVID)](http://yacvid.hayko.at/) -  a list of frequently used computer vision datasets.
 * [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/) - a large dataset with 10000+ traffic sign annotations, thousands of physically distinct traffic signs. 4 video sequences recorded with 8 high resolution cameras mounted on a van, summing more than 3 hours, with traffic sign annotations, camera calibrations and poses. About 16000 background images. The material is captured in Belgium, in urban environments from Flanders region, by GeoAutomation. 
 * [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html) - traffic sign, vehicles detection, traffic lights, trajectory patterns.
+* [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) It was recorded using omni-directional stereo cameras during one year in Colorado, USA. [paper](https://arxiv.org/abs/1704.05215)
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
