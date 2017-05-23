@@ -296,6 +296,7 @@ sensors for odometry collected using a Segway robot.
 * [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/) - a large dataset with 10000+ traffic sign annotations, thousands of physically distinct traffic signs. 4 video sequences recorded with 8 high resolution cameras mounted on a van, summing more than 3 hours, with traffic sign annotations, camera calibrations and poses. About 16000 background images. The material is captured in Belgium, in urban environments from Flanders region, by GeoAutomation. 
 * [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html) - traffic sign, vehicles detection, traffic lights, trajectory patterns.
 * [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) It was recorded using omni-directional stereo cameras during one year in Colorado, USA. [paper](https://arxiv.org/abs/1704.05215)
+* [baidu http://roadhackers.baidu.com/#downloads dataset](http://roadhackers.baidu.com/#downloads)
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
@@ -303,6 +304,7 @@ sensors for odometry collected using a Segway robot.
 * [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/) - Software Infrastructure for Stanford's Autonomous Vehicles.
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) - development environment ready for Udacity Self Driving Car (SDC) Challenges.
 * [The OSCC Project](http://oscc.io/) - A by-wire control kit for autonomous vehicle development.
+* [Open Source Self Driving Car Initiative](https://github.com/OSSDC?utf8=%E2%9C%93)
 
 ## Hardware
 
