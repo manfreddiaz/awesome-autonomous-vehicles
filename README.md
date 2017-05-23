@@ -49,6 +49,8 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 ## Papers
 By Topic Areas and Year of Publication / Submission
 
+####  [305papers Summaries of all papers discussed in the survey paper on autonomous vision](www.cvlibs.net/projects/autonomous_vision_survey/)
+
 #### General
 1. **[2016]** _Combining Deep Reinforcement Learning and Safety Based Control for Autonomous Driving_. [[ref](https://arxiv.org/abs/1612.00147)]
 * **[2015]** _An Empirical Evaluation of Deep Learning on Highway Driving_. [[ref](https://arxiv.org/abs/1504.01716)]
