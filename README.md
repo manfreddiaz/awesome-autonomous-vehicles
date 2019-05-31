@@ -270,10 +270,11 @@ understanding how people will interact with increasingly automated vehicles, soc
 * [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/) - Research areas includes Multirotor UAV, Autonomous driving and Multi-Camera Parallel Tracking and Mapping.
 * [Oxford Robotics Institute – Autonomous Systems](http://mrg.robots.ox.ac.uk/) - Researches all aspects of land based mobile autonomy.
 * [Autonomous Lab - Freie Universität Berlin](http://autonomos-labs.com/) - Computer Vision, Cognitive Navigation, Spatial Car Environment Capture.
-* [Honda Research Institute - USA](http://usa.honda-ri.com/Pages/Research%20Area/Detail.aspx?listId=2) - engaged in development and integration of multiple sensory modules and the coordination of these components while fulfilling tasks such as stable motion planning,  decision making, obstacle avoidance, and control (test).​
+* [Honda Research Institute - USA](https://usa.honda-ri.com/home) - engaged in development and integration of multiple sensory modules and the coordination of these components while fulfilling tasks such as stable motion planning,  decision making, obstacle avoidance, and control (test).​
 * [Toyota-CSAIL Research Center at MIT](http://toyota.csail.mit.edu/) - Aimed at furthering the development of autonomous vehicle technologies, with the goal of reducing traffic casualties and potentially even developing a vehicle incapable of getting into an accident.
 * [Princeton Vision & Robotics](http://vision.princeton.edu/research.html) - Autonomous Driving and StreetView.
 * [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262) - working in the areas of computer vision, autonomous navigation, virtual reality, intelligent manipulation, space robotics, and related fields.
+* [Five AI](https://five.ai/research) - Computer vision, hardware, and other publications from a UK-based autonomous vehicle company
 
 ## Datasets
 1. [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - Udacity driving datasets released for [Udacity Challenges](https://www.udacity.com/self-driving-car). Contains ROSBAG training data. (~80 GB).
@@ -296,6 +297,7 @@ sensors for odometry collected using a Segway robot.
 * [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/) - a large dataset with 10000+ traffic sign annotations, thousands of physically distinct traffic signs. 4 video sequences recorded with 8 high resolution cameras mounted on a van, summing more than 3 hours, with traffic sign annotations, camera calibrations and poses. About 16000 background images. The material is captured in Belgium, in urban environments from Flanders region, by GeoAutomation. 
 * [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html) - traffic sign, vehicles detection, traffic lights, trajectory patterns.
 * [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) It was recorded using omni-directional stereo cameras during one year in Colorado, USA. [paper](https://arxiv.org/abs/1704.05215)
+* [Lane Instance Segmentation in Urban Environments](https://five.ai/datasets) Semi-automated method for labelling lane instances. 24,000 image set available. [paper](https://arxiv.org/pdf/1807.01347.pdf)
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
