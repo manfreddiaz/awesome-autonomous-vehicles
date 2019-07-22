@@ -298,6 +298,8 @@ sensors for odometry collected using a Segway robot.
 * [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html) - traffic sign, vehicles detection, traffic lights, trajectory patterns.
 * [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) It was recorded using omni-directional stereo cameras during one year in Colorado, USA. [paper](https://arxiv.org/abs/1704.05215)
 * [Lane Instance Segmentation in Urban Environments](https://five.ai/datasets) Semi-automated method for labelling lane instances. 24,000 image set available. [paper](https://arxiv.org/pdf/1807.01347.pdf)
+* [Foggy Zurich Dataset](https://www.vision.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/) Curriculum Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding. 3.8k High Quality Foggy images in and around Zurich. [paper](https://arxiv.org/abs/1901.01415)
+* [SullyChen AutoPilot Dataset](https://github.com/SullyChen/Autopilot-TensorFlow) Dataset collected by SullyChen in and around California. 
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
