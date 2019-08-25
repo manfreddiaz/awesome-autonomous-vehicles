@@ -300,7 +300,7 @@ sensors for odometry collected using a Segway robot.
 * [Lane Instance Segmentation in Urban Environments](https://five.ai/datasets) Semi-automated method for labelling lane instances. 24,000 image set available. [paper](https://arxiv.org/pdf/1807.01347.pdf)
 * [Foggy Zurich Dataset](https://www.vision.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/) Curriculum Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding. 3.8k High Quality Foggy images in and around Zurich. [paper](https://arxiv.org/abs/1901.01415)
 * [SullyChen AutoPilot Dataset](https://github.com/SullyChen/Autopilot-TensorFlow) Dataset collected by SullyChen in and around California. 
-* [Waymo Training and Validation Data](https://waymo.com/open) One terabyte of data with 3D and 2D labels
+* [Waymo Training and Validation Data](https://waymo.com/open) One terabyte of data with 3D and 2D labels.
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
