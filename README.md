@@ -301,7 +301,7 @@ sensors for odometry collected using a Segway robot.
 * [Foggy Zurich Dataset](https://www.vision.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/) Curriculum Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding. 3.8k High Quality Foggy images in and around Zurich. [paper](https://arxiv.org/abs/1901.01415)
 * [SullyChen AutoPilot Dataset](https://github.com/SullyChen/Autopilot-TensorFlow) Dataset collected by SullyChen in and around California. 
 * [Waymo Training and Validation Data](https://waymo.com/open) One terabyte of data with 3D and 2D labels.
-* [nuScenes Dataset](https://www.nuscenes.org/) - a large dataset with 1,400,000 images and 390,000 lidar sweeps from Boston and Singapore. Provides manually generated 3D bounding boxes for 23 object classes.
+* [nuScenes Dataset](https://www.nuscenes.org/) A large dataset with 1,400,000 images and 390,000 lidar sweeps from Boston and Singapore. Provides manually generated 3D bounding boxes for 23 object classes.
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
