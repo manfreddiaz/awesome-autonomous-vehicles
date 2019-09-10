@@ -301,6 +301,7 @@ sensors for odometry collected using a Segway robot.
 * [Foggy Zurich Dataset](https://www.vision.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/) Curriculum Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding. 3.8k High Quality Foggy images in and around Zurich. [paper](https://arxiv.org/abs/1901.01415)
 * [SullyChen AutoPilot Dataset](https://github.com/SullyChen/Autopilot-TensorFlow) Dataset collected by SullyChen in and around California. 
 * [Waymo Training and Validation Data](https://waymo.com/open) One terabyte of data with 3D and 2D labels.
+* [Intel's dataset for AD conditions in India](https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/#gs.28pnw5) A dataset for Autonomous Driving conditions in India with segmented annotations (10k). (by Intel & IIIT Hyderabad).
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
