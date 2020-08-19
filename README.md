@@ -301,6 +301,10 @@ sensors for odometry collected using a Segway robot.
 * [Foggy Zurich Dataset](https://www.vision.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/) Curriculum Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding. 3.8k High Quality Foggy images in and around Zurich. [paper](https://arxiv.org/abs/1901.01415)
 * [SullyChen AutoPilot Dataset](https://github.com/SullyChen/Autopilot-TensorFlow) Dataset collected by SullyChen in and around California. 
 * [Waymo Training and Validation Data](https://waymo.com/open) One terabyte of data with 3D and 2D labels.
+* [Intel's dataset for AD conditions in India](https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/#gs.28pnw5) A dataset for Autonomous Driving conditions in India with segmented annotations (10k). (by Intel & IIIT Hyderabad).
+* [nuScenes Dataset](https://www.nuscenes.org/) A large dataset with 1,400,000 images and 390,000 lidar sweeps from Boston and Singapore. Provides manually generated 3D bounding boxes for 23 object classes.
+* [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) A large dataset of German traffic sign recogniton data (GTSRB) with more than 40 classes in 50k images and detection data (GTSDB) with 900 image annotations.
+* [Swedish Traffic Sign Dataset](https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/) A dataset with traffic signs recorded on 350 km of Swedish roads, consisting of 20k+ images with 20% of annotations.
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
@@ -324,13 +328,16 @@ sensors for odometry collected using a Segway robot.
 Different media sources where we can find self-driving car related topics, ideas, and much more.
 
 #### Youtube
+1. [Lex Fridman (channel)](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) - 100+ of AI and autonomous driving related videos including [MIT Deep Learning Series (playlist)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) which includes:
+   * [11 Jan 2020] [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=1), and
+   * [12 Jan 2019] [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=2).
 1. The Three Pillars of Autonomous Driving. [[watch](https://www.youtube.com/watch?v=GZa9SlMHhQc)]
-* What goes into sensing for autonomous driving? [[watch](https://www.youtube.com/watch?v=GCMXXXmxG-I)]
-* Amnon Shashua CVPR 2016 keynote: Autonomous Driving, Computer Vision and Machine Learning. [[watch](https://www.youtube.com/watch?v=n8T7A3wqH3Q)]
-* Chris Urmson: How a driverless car sees the road. [[watch](https://www.youtube.com/watch?v=tiwVMrTLUWg)]
-* Deep Reinforcement Learning for Driving Policy. [[watch](https://www.youtube.com/watch?v=cYTVXfIH0MU)]
-* NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
-* NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
+1. What goes into sensing for autonomous driving? [[watch](https://www.youtube.com/watch?v=GCMXXXmxG-I)]
+1. Amnon Shashua CVPR 2016 keynote: Autonomous Driving, Computer Vision and Machine Learning. [[watch](https://www.youtube.com/watch?v=n8T7A3wqH3Q)]
+1. Chris Urmson: How a driverless car sees the road. [[watch](https://www.youtube.com/watch?v=tiwVMrTLUWg)]
+1. Deep Reinforcement Learning for Driving Policy. [[watch](https://www.youtube.com/watch?v=cYTVXfIH0MU)]
+1. NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
+1. NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
 #### Blogs
 1. [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
