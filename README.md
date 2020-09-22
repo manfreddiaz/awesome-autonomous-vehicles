@@ -43,6 +43,7 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 * [[Universty of Glasgow] ENG5017 Autonomous Vehicle Guidance Systems](http://www.gla.ac.uk/coursecatalogue/course/?code=ENG5017) - Introduces the concepts behind autonomous vehicle guidance and coordination and enables students to design and implement guidance strategies for vehicles incorporating planning, optimising and reacting elements.
 * [[David Silver - Udacity] How to Land An Autonomous Vehicle Job: Coursework](https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740#.j5b2kwbso) David Silver, from Udacity, reviews his coursework for landing a job in self-driving cars coming from a Software Engineering background.
 * [[Stanford] - CS221 Artificial Intelligence: Principles and Techniques](http://stanford.edu/~cpiech/cs221/index.html) - Contains a simple self-driving project and simulator.
+* [[UCSD] - MAE/ECE148 Introduction to Autonomous Vehicles](https://guitar.ucsd.edu/maeece148/index.php/Introduction_to_Autonomous_Vehicles) - A hands-on, project-based course using DonkeyCar with lane-tracking functionality and various advanced topics such as object detection, navigation, etc.
 * [[MIT] 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) -  an introduction to the practice of deep learning through the applied theme of building a self-driving car.
 * [[MIT] 2.166 Duckietown](http://duckietown.mit.edu/index.html) - Class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
 * [[Coursera] Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars#about) - A 4 course specialization about Self-Driving Cars by the University of Toronto. Covering all the way from the Introduction, State Estimation & Localization, Visual Perception, Motion Planning.
@@ -321,6 +322,7 @@ sensors for odometry collected using a Segway robot.
 ## Toys
 1. [TensorKart](https://github.com/kevinhughes27/TensorKart) - self-driving MarioKart with TensorFlow.
 2. [NeuroJS](https://github.com/janhuenermann/neurojs) - A javascript deep learning and reinforcement learning library. A sample self-driving car implementation.
+3. [DonkeyCar](https://github.com/autorope/donkeycar) - A minimalist and modular self driving library for Python. It is developed for hobbyists and students with a focus on allowing fast experimentation and easy community contributions.
 
 ## Companies
 
