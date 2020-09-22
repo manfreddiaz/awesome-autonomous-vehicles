@@ -45,6 +45,7 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 * [[Stanford] - CS221 Artificial Intelligence: Principles and Techniques](http://stanford.edu/~cpiech/cs221/index.html) - Contains a simple self-driving project and simulator.
 * [[MIT] 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) -  an introduction to the practice of deep learning through the applied theme of building a self-driving car.
 * [[MIT] 2.166 Duckietown](http://duckietown.mit.edu/index.html) - Class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
+* [[Coursera] Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars#about) - A 4 course specialization about Self-Driving Cars by the University of Toronto. Covering all the way from the Introduction, State Estimation & Localization, Visual Perception, Motion Planning.
 
 ## Papers
 By Topic Areas and Year of Publication / Submission
@@ -312,6 +313,7 @@ sensors for odometry collected using a Segway robot.
 * [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/) - Software Infrastructure for Stanford's Autonomous Vehicles.
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) - development environment ready for Udacity Self Driving Car (SDC) Challenges.
 * [The OSCC Project](http://oscc.io/) - A by-wire control kit for autonomous vehicle development.
+* [OpenAI Gym](https://gym.openai.com/) - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games, mountain car, car racing etc., with a good possibility to develop and validate RL algorithms for Self-Driving Cars.
 
 ## Hardware
 
