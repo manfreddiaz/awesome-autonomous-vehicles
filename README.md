@@ -36,15 +36,19 @@ from generic to specific areas focus on state-of-the-art for anyone starting in 
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision, maintained by Jiwon Kim, Heesoo Myeong, Myungsub Choi, Jung Kwon Lee, Taeksoo Kim
 
 ## Courses
-1. [[Udacity] Self-Driving Car Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - teaches the skills and techniques used by self-driving car teams. Program syllabus can be found [here](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.bfgw9uxd9).
+* [[Coursera] Machine Learning](https://www.coursera.org/learn/machine-learning) - presented by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), as of 2020 Jan 28 it has 125,344 ratings and 30,705 reviews.
+* [[Coursera+DeepLearning.ai]Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - presented by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), 5 Courses, teaches foundations of deep learning, programming language: python
+* [[Udacity] Self-Driving Car Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - teaches the skills and techniques used by self-driving car teams. Program syllabus can be found [here](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.bfgw9uxd9).
 * [[University of Toronto] CSC2541
 Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html) - A graduate course in visual perception for autonomous driving. The class briefly covers topics in localization, ego-motion estimaton, free-space estimation, visual recognition (classification, detection, segmentation).
 * [[INRIA] Mobile Robots and Autonomous Vehicles](https://www.fun-mooc.fr/courses/inria/41005S02/session02/about?utm_source=mooc-list) - Introduces the key concepts required to program mobile robots and autonomous vehicles. The course presents both formal and algorithmic tools, and for its last week's topics (behavior modeling and learning), it will also provide realistic examples and programming exercises in Python.
 * [[Universty of Glasgow] ENG5017 Autonomous Vehicle Guidance Systems](http://www.gla.ac.uk/coursecatalogue/course/?code=ENG5017) - Introduces the concepts behind autonomous vehicle guidance and coordination and enables students to design and implement guidance strategies for vehicles incorporating planning, optimising and reacting elements.
 * [[David Silver - Udacity] How to Land An Autonomous Vehicle Job: Coursework](https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740#.j5b2kwbso) David Silver, from Udacity, reviews his coursework for landing a job in self-driving cars coming from a Software Engineering background.
 * [[Stanford] - CS221 Artificial Intelligence: Principles and Techniques](http://stanford.edu/~cpiech/cs221/index.html) - Contains a simple self-driving project and simulator.
+* [[MIT] 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) - *"This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application. (...)"* 
+* [[MIT] Deep Learning](https://deeplearning.mit.edu/) - *"This page is a collection of MIT courses and lectures on deep learning, deep reinforcement learning, autonomous vehicles, and artificial intelligence organized by Lex Fridman."* 
+* [[MIT] Human-Centered Artificial Intelligence](https://hcai.mit.edu/) - *"Human-Centered AI at MIT is a collection of research and courses focused on the design, development, and deployment of artificial intelligence systems that learn from and collaborate with humans in a deep, meaningful way."*
 * [[UCSD] - MAE/ECE148 Introduction to Autonomous Vehicles](https://guitar.ucsd.edu/maeece148/index.php/Introduction_to_Autonomous_Vehicles) - A hands-on, project-based course using DonkeyCar with lane-tracking functionality and various advanced topics such as object detection, navigation, etc.
-* [[MIT] 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) -  an introduction to the practice of deep learning through the applied theme of building a self-driving car.
 * [[MIT] 2.166 Duckietown](http://duckietown.mit.edu/index.html) - Class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
 * [[Coursera] Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars#about) - A 4 course specialization about Self-Driving Cars by the University of Toronto. Covering all the way from the Introduction, State Estimation & Localization, Visual Perception, Motion Planning.
 
@@ -326,10 +330,20 @@ sensors for odometry collected using a Segway robot.
 
 ## Companies
 
-1. [33 Corporations Working On Autonomous Vehicles](https://www.cbinsights.com/blog/autonomous-driverless-vehicles-corporations-list/)
+1. (As of August 28, 2019) [40+ Corporations Working On Autonomous Vehicles](https://www.cbinsights.com/blog/autonomous-driverless-vehicles-corporations-list/)
 
 ## Media
 Different media sources where we can find self-driving car related topics, ideas, and much more.
+
+### Podcasts
+
+* [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) - *"Artificial Intelligence podcast (AI podcast) is a series of conversations about technology, science, and the human condition hosted by Lex Fridman."*. Example episodes:
+  * [Sebastian Thrun: Flying Cars, Autonomous Vehicles, and Education](https://www.youtube.com/watch?v=ZPPAOakITeQ&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+  * [Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot](https://www.youtube.com/watch?v=smK9dgdTl40&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+  * [George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles](https://lexfridman.com/george-hotz/)
+  * [Jeremy Howard: fast.ai Deep Learning Courses and Research](https://lexfridman.com/jeremy-howard/)
+* [Autonocast, The future of transportation](https://www.autonocast.com/) - 
+*"A weekly show discussing the latest in transportation technology"*
 
 #### Youtube
 1. [Lex Fridman (channel)](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) - 100+ of AI and autonomous driving related videos including [MIT Deep Learning Series (playlist)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) which includes:
@@ -343,11 +357,11 @@ Different media sources where we can find self-driving car related topics, ideas
 1. NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
 1. NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
-#### Blogs
+### Blogs
 1. [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
 * [[Medium] Self-Driving Cars](https://medium.com/self-driving-cars)
 
-#### Twitter
+### Twitter
 
 1. [comma.ai](https://twitter.com/comma_ai)
 * [[Udacity] David Silver](https://twitter.com/dsilver829)
