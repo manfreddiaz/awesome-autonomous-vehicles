@@ -48,7 +48,9 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 * [[MIT] 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) - *"This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application. (...)"* 
 * [[MIT] Deep Learning](https://deeplearning.mit.edu/) - *"This page is a collection of MIT courses and lectures on deep learning, deep reinforcement learning, autonomous vehicles, and artificial intelligence organized by Lex Fridman."* 
 * [[MIT] Human-Centered Artificial Intelligence](https://hcai.mit.edu/) - *"Human-Centered AI at MIT is a collection of research and courses focused on the design, development, and deployment of artificial intelligence systems that learn from and collaborate with humans in a deep, meaningful way."*
+* [[UCSD] - MAE/ECE148 Introduction to Autonomous Vehicles](https://guitar.ucsd.edu/maeece148/index.php/Introduction_to_Autonomous_Vehicles) - A hands-on, project-based course using DonkeyCar with lane-tracking functionality and various advanced topics such as object detection, navigation, etc.
 * [[MIT] 2.166 Duckietown](http://duckietown.mit.edu/index.html) - Class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
+* [[Coursera] Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars#about) - A 4 course specialization about Self-Driving Cars by the University of Toronto. Covering all the way from the Introduction, State Estimation & Localization, Visual Perception, Motion Planning.
 
 ## Papers
 By Topic Areas and Year of Publication / Submission
@@ -316,6 +318,7 @@ sensors for odometry collected using a Segway robot.
 * [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/) - Software Infrastructure for Stanford's Autonomous Vehicles.
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) - development environment ready for Udacity Self Driving Car (SDC) Challenges.
 * [The OSCC Project](http://oscc.io/) - A by-wire control kit for autonomous vehicle development.
+* [OpenAI Gym](https://gym.openai.com/) - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games, mountain car, car racing etc., with a good possibility to develop and validate RL algorithms for Self-Driving Cars.
 
 ## Hardware
 
@@ -323,6 +326,7 @@ sensors for odometry collected using a Segway robot.
 ## Toys
 1. [TensorKart](https://github.com/kevinhughes27/TensorKart) - self-driving MarioKart with TensorFlow.
 2. [NeuroJS](https://github.com/janhuenermann/neurojs) - A javascript deep learning and reinforcement learning library. A sample self-driving car implementation.
+3. [DonkeyCar](https://github.com/autorope/donkeycar) - A minimalist and modular self driving library for Python. It is developed for hobbyists and students with a focus on allowing fast experimentation and easy community contributions.
 
 ## Companies
 
@@ -341,15 +345,17 @@ Different media sources where we can find self-driving car related topics, ideas
 * [Autonocast, The future of transportation](https://www.autonocast.com/) - 
 *"A weekly show discussing the latest in transportation technology"*
 
-
-### Youtube
+#### Youtube
+1. [Lex Fridman (channel)](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) - 100+ of AI and autonomous driving related videos including [MIT Deep Learning Series (playlist)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) which includes:
+   * [11 Jan 2020] [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=1), and
+   * [12 Jan 2019] [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=2).
 1. The Three Pillars of Autonomous Driving. [[watch](https://www.youtube.com/watch?v=GZa9SlMHhQc)]
-* What goes into sensing for autonomous driving? [[watch](https://www.youtube.com/watch?v=GCMXXXmxG-I)]
-* Amnon Shashua CVPR 2016 keynote: Autonomous Driving, Computer Vision and Machine Learning. [[watch](https://www.youtube.com/watch?v=n8T7A3wqH3Q)]
-* Chris Urmson: How a driverless car sees the road. [[watch](https://www.youtube.com/watch?v=tiwVMrTLUWg)]
-* Deep Reinforcement Learning for Driving Policy. [[watch](https://www.youtube.com/watch?v=cYTVXfIH0MU)]
-* NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
-* NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
+1. What goes into sensing for autonomous driving? [[watch](https://www.youtube.com/watch?v=GCMXXXmxG-I)]
+1. Amnon Shashua CVPR 2016 keynote: Autonomous Driving, Computer Vision and Machine Learning. [[watch](https://www.youtube.com/watch?v=n8T7A3wqH3Q)]
+1. Chris Urmson: How a driverless car sees the road. [[watch](https://www.youtube.com/watch?v=tiwVMrTLUWg)]
+1. Deep Reinforcement Learning for Driving Policy. [[watch](https://www.youtube.com/watch?v=cYTVXfIH0MU)]
+1. NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
+1. NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
 ### Blogs
 1. [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
