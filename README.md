@@ -313,7 +313,7 @@ sensors for odometry collected using a Segway robot.
 * [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) A large dataset of German traffic sign recogniton data (GTSRB) with more than 40 classes in 50k images and detection data (GTSDB) with 900 image annotations.
 * [Swedish Traffic Sign Dataset](https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/) A dataset with traffic signs recorded on 350 km of Swedish roads, consisting of 20k+ images with 20% of annotations.
 * [Argoverse 3d Tracking Dataset](https://www.argoverse.org/) A large dataset with ~1M images and ~1M labeled 3d cuboids from Miami and Pittsburgh. Provides HD maps and imagery from 7 ring cameras, 2 stereo cameras, and LiDAR.
-* [Argoverse 3d Tracking Dataset](https://www.argoverse.org/) A large dataset with trajectories of tracked objects across 324,557 scenes, mined from 1006 hours of driving.
+* [Argoverse Motion Forecasting Dataset](https://www.argoverse.org/) A large dataset with trajectories of tracked objects across 324,557 scenes, mined from 1006 hours of driving.
 
 
 ## Open Source Software
