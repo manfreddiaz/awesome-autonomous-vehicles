@@ -101,7 +101,8 @@ By Topic Areas and Year of Publication / Submission
 * **[2007]** _Map-Based Precision Vehicle Localization in Urban Environments_. [[ref](https://www.semanticscholar.org/paper/Map-Based-Precision-Vehicle-Localization-in-Urban-Levinson-Montemerlo/924f7268d592d327f97ad4e96f48ad774d982ef3)]
 
 #### Perception
-1. **[2016]** _VisualBackProp: visualizing CNNs for autonomous driving_. [[ref](https://arxiv.org/abs/1611.05418)]
+1. **[2019]** _Argoverse: 3D Tracking and Forecasting with Rich Maps_. [[ref](https://arxiv.org/abs/1911.02620))
+2. **[2016]** _VisualBackProp: visualizing CNNs for autonomous driving_. [[ref](https://arxiv.org/abs/1611.05418)]
 * **[2016]** _Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?_. [[ref](https://arxiv.org/abs/1610.01983)]
 * **[2016]** _Lost and Found: Detecting Small Road Hazards for Self-Driving Vehicles_. [[ref](https://arxiv.org/abs/1609.04653)]
 * **[2016]** _Image segmentation of cross-country scenes captured in IR spectrum_. [[ref](https://arxiv.org/abs/1604.02469)]
@@ -311,6 +312,9 @@ sensors for odometry collected using a Segway robot.
 * [nuScenes Dataset](https://www.nuscenes.org/) A large dataset with 1,400,000 images and 390,000 lidar sweeps from Boston and Singapore. Provides manually generated 3D bounding boxes for 23 object classes.
 * [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) A large dataset of German traffic sign recogniton data (GTSRB) with more than 40 classes in 50k images and detection data (GTSDB) with 900 image annotations.
 * [Swedish Traffic Sign Dataset](https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/) A dataset with traffic signs recorded on 350 km of Swedish roads, consisting of 20k+ images with 20% of annotations.
+* [Argoverse 3d Tracking Dataset](https://www.argoverse.org/) A large dataset with ~1M images and ~1M labeled 3d cuboids from Miami and Pittsburgh. Provides HD maps and imagery from 7 ring cameras, 2 stereo cameras, and LiDAR.
+* [Argoverse Motion Forecasting Dataset](https://www.argoverse.org/) A large dataset with trajectories of tracked objects across 324,557 scenes, mined from 1006 hours of driving.
+
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
@@ -319,6 +323,7 @@ sensors for odometry collected using a Segway robot.
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) - development environment ready for Udacity Self Driving Car (SDC) Challenges.
 * [The OSCC Project](http://oscc.io/) - A by-wire control kit for autonomous vehicle development.
 * [OpenAI Gym](https://gym.openai.com/) - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games, mountain car, car racing etc., with a good possibility to develop and validate RL algorithms for Self-Driving Cars.
+* [argoverse-api](https://github.com/argoai/argoverse-api) - Development kit for working with the [Argoverse](https://www.argoverse.org/) 3d Tracking and Forecasting datasets, and for evaluating 3d tracking, 3d detection, and motion forecasting algorithms.
 
 ## Hardware
 
