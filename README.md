@@ -282,6 +282,8 @@ understanding how people will interact with increasingly automated vehicles, soc
 * [Princeton Vision & Robotics](http://vision.princeton.edu/research.html) - Autonomous Driving and StreetView.
 * [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262) - working in the areas of computer vision, autonomous navigation, virtual reality, intelligent manipulation, space robotics, and related fields.
 * [Five AI](https://five.ai/research) - Computer vision, hardware, and other publications from a UK-based autonomous vehicle company
+* [Vehicle Industry Research Center - Széchenyi University](https://jkk-web.sze.hu/?lang=en) - One of the most researched topic is self-driving (a.k.a autonomous) vehicles. The research center is preparing for this new technology-to-come by studying and researching its fundamentals and exploring the possibilities it offers. 
+* [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/topics/mobility.php) - At KIT, about 800 scientists of nearly 40 institutes conduct research into forward-looking, safe, sustainable, and comfortable solutions for future mobility. Scarcity of resources, lacking space, and overstrained infrastructure call for an integrated assessment of transport means and traffic flows. 
 
 ## Datasets
 1. [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - Udacity driving datasets released for [Udacity Challenges](https://www.udacity.com/self-driving-car). Contains ROSBAG training data. (~80 GB).
