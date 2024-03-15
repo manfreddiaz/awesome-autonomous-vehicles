@@ -282,6 +282,8 @@ understanding how people will interact with increasingly automated vehicles, soc
 * [Princeton Vision & Robotics](http://vision.princeton.edu/research.html) - Autonomous Driving and StreetView.
 * [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262) - working in the areas of computer vision, autonomous navigation, virtual reality, intelligent manipulation, space robotics, and related fields.
 * [Five AI](https://five.ai/research) - Computer vision, hardware, and other publications from a UK-based autonomous vehicle company
+* [Vehicle Industry Research Center - Széchenyi University](https://jkk-web.sze.hu/?lang=en) - One of the most researched topic is self-driving (a.k.a autonomous) vehicles. The research center is preparing for this new technology-to-come by studying and researching its fundamentals and exploring the possibilities it offers. 
+* [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/topics/mobility.php) - At KIT, about 800 scientists of nearly 40 institutes conduct research into forward-looking, safe, sustainable, and comfortable solutions for future mobility. Scarcity of resources, lacking space, and overstrained infrastructure call for an integrated assessment of transport means and traffic flows. 
 
 ## Datasets
 1. [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - Udacity driving datasets released for [Udacity Challenges](https://www.udacity.com/self-driving-car). Contains ROSBAG training data. (~80 GB).
@@ -310,7 +312,7 @@ sensors for odometry collected using a Segway robot.
 * [Foggy Zurich Dataset](https://www.vision.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/) Curriculum Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding. 3.8k High Quality Foggy images in and around Zurich. [paper](https://arxiv.org/abs/1901.01415)
 * [SullyChen AutoPilot Dataset](https://github.com/SullyChen/Autopilot-TensorFlow) Dataset collected by SullyChen in and around California. 
 * [Waymo Training and Validation Data](https://waymo.com/open) One terabyte of data with 3D and 2D labels.
-* [Intel's dataset for AD conditions in India](https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/#gs.28pnw5) A dataset for Autonomous Driving conditions in India with segmented annotations (10k). (by Intel & IIIT Hyderabad).
+* [Intel's dataset for AD conditions in India](https://idd.insaan.iiit.ac.in/) A dataset for Autonomous Driving conditions in India (road scene understanding in unstructured environments) which consists of 10k images, finely annotated with 34 classes collected from 182 drive sequences on Indian roads (by Intel & IIIT Hyderabad).
 * [nuScenes Dataset](https://www.nuscenes.org/) A large dataset with 1,400,000 images and 390,000 lidar sweeps from Boston and Singapore. Provides manually generated 3D bounding boxes for 23 object classes.
 * [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) A large dataset of German traffic sign recogniton data (GTSRB) with more than 40 classes in 50k images and detection data (GTSDB) with 900 image annotations.
 * [Swedish Traffic Sign Dataset](https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/) A dataset with traffic signs recorded on 350 km of Swedish roads, consisting of 20k+ images with 20% of annotations.
