@@ -318,6 +318,7 @@ sensors for odometry collected using a Segway robot.
 * [Swedish Traffic Sign Dataset](https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/) A dataset with traffic signs recorded on 350 km of Swedish roads, consisting of 20k+ images with 20% of annotations.
 * [Argoverse 3d Tracking Dataset](https://www.argoverse.org/) A large dataset with ~1M images and ~1M labeled 3d cuboids from Miami and Pittsburgh. Provides HD maps and imagery from 7 ring cameras, 2 stereo cameras, and LiDAR.
 * [Argoverse Motion Forecasting Dataset](https://www.argoverse.org/) A large dataset with trajectories of tracked objects across 324,557 scenes, mined from 1006 hours of driving.
+* [Oxford Offroad Radar Dataset (OORD)](https://oxford-robotics-institute.github.io/oord-dataset/) Data collected in the rugged Scottish highlands in extreme weather. Radar data alongside GPS/INS reference - designed for radar localisation research. The data feature distinct landscape as well as driving conditions. In total the vehicle drives a diverse set of four routes over 11 forays, totalling approximately 154km of rugged driving.
 
 
 ## Open Source Software
